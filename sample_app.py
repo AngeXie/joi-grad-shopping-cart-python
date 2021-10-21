@@ -25,4 +25,5 @@ def main():
 
 
 if __name__ == "__main__":
+    s = '运行测试，远程残酷连接测试'
     main()
